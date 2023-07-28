@@ -1,4 +1,4 @@
-                                                         ### Hi there 👋, I'm Mohammed Faizan Shafi 
+<p align="center"> <h3><b>Hi there 👋, I'm Mohammed Faizan Shafi</b></h3> </p>
                                                           Data Science Enthusiast | Bangalore, India
 
 <!--
