@@ -1,6 +1,6 @@
 # <div align="center"><h3><b>Hi there 👋, I'm Mohammed Faizan Shafi</b></h3></div>
 
-<div align="center">Data Science Enthusiast | Bangalore, India</div>
+## <div align="center">Data Science Enthusiast | Bangalore, India</div>
                                                          
 
 <!--
