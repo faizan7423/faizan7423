@@ -34,7 +34,7 @@
 
 - Machine Learning
 
-## 👨‍💻 Where to find me
+## 👨‍💻 Where to find my work
 
 - [Jovian Profile](https://jovian.com/mdfaizan5262426) has all my projects
 
