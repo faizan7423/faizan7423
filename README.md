@@ -30,11 +30,18 @@
 - Built functions to parse anime title, rating, description, year duration and creator name etc. details
 - Stored data consisting of 100 rows x 7 columns into Top100_Anime.csv using **Pandas**
 
+## 🌱 What I'm Learning
 
+- Machine Learning
 
-  🌱 I’m currently learning Machine Laerning
-  👨‍💻 All of my projects are available at [Jovian Profile](https://jovian.com/mdfaizan5262426)
-  📫 How to Reach Me [**mdfaizan5262426@gmail.com**](mailto:mdfaizan5262426@gmail.com)
+## 👨‍💻 Where to find me
+
+- [Jovian Profile](https://jovian.com/mdfaizan5262426) has all my projects
+
+## 📫 How to Reach Me 
+
+- [**mdfaizan5262426@gmail.com**](mailto:mdfaizan5262426@gmail.com)
+
 
 ## 👥 Connect with me:
 
