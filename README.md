@@ -18,13 +18,13 @@
 
 - Got a kaggle score of **0.18** using **5%** of the data on test set using **Binary random classifier after tuning**
 
-[**Exploratory Data Analysis and Visualization of Glassdoor Jobs**]() 
+**Exploratory Data Analysis and Visualization of Glassdoor Jobs** [**(View)**](https://jovian.com/mdfaizan5262426/exploratory-data-analysis-on-glassdoor-jobs-using-python)
 
 - Analyzed data for **160k+ jobs** containing 18 columns, by merging 2 datasets using **Pandas**
 - Created visualizations (Line charts, Bar charts, Geo heatmaps, etc.) using **Seaborn** & **Plotly**  
 - **Data Science jobs** are mostly in **IT & Business services** sector & **Singapore**, Paris are the top locations
 
-[**Scrapping Top 100 Animated Series from IMDB**](https://www.example.com)
+**Scrapping Top 100 Animated Series from IMDB** [**(View)**](https://jovian.com/mdfaizan5262426/scraping-top-imdb-animated-series)
 
 - Scrapped top animated series from https://www.imdb.com/ using **requests** and **BeautifulSoup4**
 - Built functions to parse anime title, rating, description, year duration and creator name etc. details
