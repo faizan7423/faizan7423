@@ -10,7 +10,7 @@
 
 ## 💻 Projects
 
-**Expedia Hotel Recommendations using Machine Learning** **[View]**(https://jovian.com/mdfaizan5262426/expedia-hotel-recommendations)
+**Expedia Hotel Recommendations using Machine Learning** [**View**](https://jovian.com/mdfaizan5262426/expedia-hotel-recommendations)
 
 - Worked with Kaggle’s **“Expedia Hotel Recommendations dataset”** with **37m+ rows and 31 columns**
 
