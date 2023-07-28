@@ -1,5 +1,5 @@
-###                                                          Hi there 👋, I'm Mohammed Faizan Shafi 
-                                                           Data Science Enthusiast | Bangalore, India
+                                                         ### Hi there 👋, I'm Mohammed Faizan Shafi 
+                                                          Data Science Enthusiast | Bangalore, India
 
 <!--
 **faizan7423/faizan7423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
