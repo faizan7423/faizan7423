@@ -50,6 +50,5 @@
 [<img align="left" alt="Pandas" width="36px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" style="padding-right:10px;" />](https://pandas.pydata.org/)
 [<img align="left" alt="Scikit-learn" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />](https://scikit-learn.org/stable/)
 [<img align="left" alt="Google Colab" width="36px" src="https://colab.research.google.com/img/colab_favicon_256px.png" style="padding-right:10px;" />](https://colab.research.google.com/)
-[<img align="left" alt="Jupyter" width="36px" src="https://cdn.worldvectorlogo.com/logos/jupyter.svg" style="padding-right:10px;" />](https://jupyter.org/)
 
 <br />
