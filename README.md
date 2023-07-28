@@ -1,5 +1,5 @@
-<p align="center"> <h3><b>Hi there 👋, I'm Mohammed Faizan Shafi</b></h3> </p>
-                                                          Data Science Enthusiast | Bangalore, India
+<p align="center"> <h3><b>Hi there 👋, I'm Mohammed Faizan Shafi</b></h3> </p> Data Science Enthusiast | Bangalore, India
+                                                         
 
 <!--
 **faizan7423/faizan7423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
