@@ -44,10 +44,10 @@
 -->
 ## 💻 Languages and Tools
 
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" style="padding-right:10px;" />](https://www.python.org/)
-[<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png" style="padding-right:10px;" />](https://pandas.pydata.org/)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="padding-right:10px;" />](https://www.postgresql.org/)
-[<img align="left" alt="Tableau" width="26px" src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" style="padding-right:10px;" />](https://www.tableau.com/)
-[<img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />](https://scikit-learn.org/stable/)
+[<img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" style="padding-right:10px;" />](https://www.python.org/)
+[<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="padding-right:10px;" />](https://www.postgresql.org/)
+[<img align="left" alt="Tableau" width="36px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="padding-right:10px;" />](https://www.tableau.com/) 
+[<img align="left" alt="Pandas" width="36px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" style="padding-right:10px;" />](https://pandas.pydata.org/)
+[<img align="left" alt="Scikit-learn" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />](https://scikit-learn.org/stable/)
 
 <br />
