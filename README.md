@@ -2,7 +2,7 @@
 
 ## <div align="center">Data Science Enthusiast | Bangalore, India</div>
                                                          
-### 🎓 Courses & Certifications
+### I have completed
 
 **Courses:** Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
