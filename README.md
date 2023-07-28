@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning Machine Laerning
 - 👨‍💻 All of my projects are available at [Jovian Profile](https://jovian.com/mdfaizan5262426)
-- 📫 How to Reach Me [mdfaizan5262426@gmail.com](mailto:mdfaizan5262426@gmail.com)
+- 📫 How to Reach Me [**mdfaizan5262426@gmail.com**](mailto:mdfaizan5262426@gmail.com)
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
