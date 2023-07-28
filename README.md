@@ -32,15 +32,10 @@
 
 
 
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning Machine Laerning
 - 👨‍💻 All of my projects are available at [Jovian Profile](https://jovian.com/mdfaizan5262426)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ## 📫 How to Reach Me
+- 📫 How to Reach Me [](mailto:mdfaizan5262426@gmail.com)
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdfaizan5262426@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
