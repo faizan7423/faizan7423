@@ -36,6 +36,9 @@
 - 👨‍💻 All of my projects are available at [Jovian Profile](https://jovian.com/mdfaizan5262426)
 - 📫 How to Reach Me [**mdfaizan5262426@gmail.com**](mailto:mdfaizan5262426@gmail.com)
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👥 Connect with me:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-faizan-shafi-90394b221/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mdfaizan_shafi)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mdfaizan5262426)
 -->
