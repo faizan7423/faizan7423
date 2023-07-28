@@ -2,7 +2,13 @@
 
 ## <div align="center">Data Science Enthusiast | Bangalore, India</div>
                                                          
+## 🎓 Courses & Certifications
 
+**Courses:** Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
+
+**Highlights:** 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
+
+## 💻 Projects
 <!--
 **faizan7423/faizan7423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
