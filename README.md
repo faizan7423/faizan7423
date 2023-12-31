@@ -56,7 +56,7 @@
 [<img align="left" alt="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="React" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="padding-right:10px;" />](https://reactjs.org/)
 [<img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" style="padding-right:10px;" />](https://www.python.org/)
-[<img align="left" alt="Tableau" width="36px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="padding-right:10px;" />](https://www.tableau.com/) .
+[<img align="left" alt="Tableau" width="36px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="padding-right:10px;" />](https://www.tableau.com/) 
 [<img align="left" alt="Google Colab" width="36px" src="https://colab.research.google.com/img/colab_favicon_256px.png" style="padding-right:10px;" />](https://colab.research.google.com/)
 
 <br />
