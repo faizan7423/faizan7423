@@ -50,14 +50,14 @@
 -->
 ## 💻 Languages and Tools
 
+[<img align="left" alt="Java" width="36px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" style="padding-right:10px;" />](https://www.oracle.com/java/)
+[<img align="left" alt="Spring Boot" width="36px" src="https://img.icons8.com/color/48/000000/spring-logo.png" style="padding-right:10px;" />](https://spring.io/projects/spring-boot)
+[<img align="left" alt="PostgreSQL" width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png" style="padding-right:10px;" />](https://www.postgresql.org/)
 [<img align="left" alt="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="React" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="padding-right:10px;" />](https://reactjs.org/)
-
-
 [<img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" style="padding-right:10px;" />](https://www.python.org/)
 [<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="padding-right:10px;" />](https://www.postgresql.org/)
-[<img align="left" alt="Tableau" width="36px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="padding-right:10px;" />](https://www.tableau.com/) 
-[<img align="left" alt="Pandas" width="36px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" style="padding-right:10px;" />](https://pandas.pydata.org/)
+[<img align="left" alt="Tableau" width="36px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="padding-right:10px;" />](https://www.tableau.com/) .
 [<img align="left" alt="Google Colab" width="36px" src="https://colab.research.google.com/img/colab_favicon_256px.png" style="padding-right:10px;" />](https://colab.research.google.com/)
 
 <br />
