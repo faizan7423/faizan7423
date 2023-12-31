@@ -1,22 +1,24 @@
 # <div align="center"><h3><b>Hi there 👋, I'm Mohammed Faizan Shafi</b></h3></div>
 
-## <div align="center">Data Science Enthusiast | Bangalore, India</div>
+## <div align="center">Full Stack Developer | Bangalore, India</div>
                                                          
-### I have completed
-
-**Courses:** Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-
-**Highlights:** 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Machine Learning)
 
 ## 💻 Projects
 
-**Expedia Hotel Recommendations using Machine Learning** [**(View)**](https://jovian.com/mdfaizan5262426/expedia-hotel-recommendations)
+**Pizza Ordering Platform Backend** [**(View)**](https://github.com/faizan7423/PizzaAppBackend)
 
-- Worked with Kaggle’s **“Expedia Hotel Recommendations dataset”** with **37m+ rows and 31 columns**
+- Developed Java-based **backend** for a dynamic **Pizza Ordering System** using **Spring Boot** and **Hibernate**.
+- Constructed **RESTful APIs** handling user functions, order processing, and cart management.
+-	Implemented robust error handling and **custom exceptions** to ensure system reliability.
+-	Applied **Mockito** for **unit testing**, ensuring code stability and functionality.
 
-- Trained **random classifier, XGBoost Decision tree**, etc. models using **scikit-learn & XGBoost libraries**
+**Pizza Ordering Platform Frontend**  [**(View)**](https://github.com/faizan7423/PizzaAppFrontend)
 
-- Got a kaggle score of **0.18** using **5%** of the data on test set using **Binary random classifier after tuning**
+-	Created a user-friendly UI using **React.js**, enhancing the Pizza Ordering System's dynamic experience.
+-	Utilized **React Router** to ensure seamless navigation across the application.
+-	Employed contemporary **UI libraries** and **frameworks** for creating responsive and interactive designs.
+-	Integrated **state management** tools such as **Redux** or **Context API** for efficient data flow control and improved application scalability.
+
 
 **Exploratory Data Analysis and Visualization of Glassdoor Jobs** [**(View)**](https://jovian.com/mdfaizan5262426/exploratory-data-analysis-on-glassdoor-jobs-using-python)
 
@@ -32,11 +34,8 @@
 
 ## 🌱 What I'm Learning
 
-- Machine Learning
+- TypeScript
 
-## 👨‍💻 Where to find my work
-
-- [Jovian Profile](https://jovian.com/mdfaizan5262426) has all my projects
 
 ## 📫 How to Reach Me 
 
@@ -51,11 +50,14 @@
 -->
 ## 💻 Languages and Tools
 
+[<img align="left" alt="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="React" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="padding-right:10px;" />](https://reactjs.org/)
+
+
 [<img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" style="padding-right:10px;" />](https://www.python.org/)
 [<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="padding-right:10px;" />](https://www.postgresql.org/)
 [<img align="left" alt="Tableau" width="36px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="padding-right:10px;" />](https://www.tableau.com/) 
 [<img align="left" alt="Pandas" width="36px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" style="padding-right:10px;" />](https://pandas.pydata.org/)
-[<img align="left" alt="Scikit-learn" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />](https://scikit-learn.org/stable/)
 [<img align="left" alt="Google Colab" width="36px" src="https://colab.research.google.com/img/colab_favicon_256px.png" style="padding-right:10px;" />](https://colab.research.google.com/)
 
 <br />
